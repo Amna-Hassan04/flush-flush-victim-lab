@@ -1,0 +1,7 @@
+Host: ookay
+Architecture: x86_64
+Trials requested: 20
+Expected message: amna
+Shared-memory name: /flush_flush_demo
+Results directory: /home/ahassan9/flush-flush-victim-lab/cross_machine_results/ookay_20261015_180948
+Finished: Thu Oct 15 06:09:53 PM EDT 2026

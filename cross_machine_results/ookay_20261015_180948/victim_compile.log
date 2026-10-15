@@ -1,0 +1,10 @@
+/home/ahassan9/flush-flush-victim-lab/victim.c: In function ‘main’:
+/home/ahassan9/flush-flush-victim-lab/victim.c:56:23: warning: comparison of integer expressions of different signedness: ‘int’ and ‘long unsigned int’ [-Wsign-compare]
+   56 |     for (int i = 0; i < BITS; i++) {
+      |                       ^
+/home/ahassan9/flush-flush-victim-lab/victim.c:77:38: warning: format ‘%d’ expects argument of type ‘int’, but argument 2 has type ‘long unsigned int’ [-Wformat=]
+   77 |     printf("Victim finished sending %d test bits.\n", BITS);
+      |                                     ~^
+      |                                      |
+      |                                      int
+      |                                     %ld
