@@ -1,0 +1,11 @@
++ cd /home/ahassan9/flush-flush-victim-lab/cross_machine_results/artemisia_20261015_111212
++ python3 plot_repeats.py
+/home/ahassan9/flush-flush-victim-lab/cross_machine_results/artemisia_20261015_111212/plot_repeats.py:134: UserWarning: Tight layout not applied. The bottom and top margins cannot be made large enough to accommodate all Axes decorations.
+  plt.tight_layout()
+Loaded 20 trials.
+Using threshold: 171 ticks.
+
+Saved figures:
+report_figures/01_timing_distributions.png (116,794 bytes)
+report_figures/02_timing_by_bit.png (161,530 bytes)
+report_figures/03_accuracy_by_trial.png (104,905 bytes)

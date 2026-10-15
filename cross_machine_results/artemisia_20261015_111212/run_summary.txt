@@ -1,0 +1,7 @@
+Host: artemisia
+Architecture: x86_64
+Trials requested: 20
+Expected message: amna
+Shared-memory name: /flush_flush_demo
+Results directory: /home/ahassan9/flush-flush-victim-lab/cross_machine_results/artemisia_20261015_111212
+Finished: Thu Oct 15 11:12:18 AM EDT 2026

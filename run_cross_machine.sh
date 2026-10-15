@@ -1,4 +1,3 @@
-```bash
 #!/usr/bin/env bash
 
 # Stop if a command fails, an unset variable is used, or a pipeline fails.
@@ -249,4 +248,3 @@ echo "Experiment script finished."
 echo "Host: ${HOST}"
 echo "Results saved in: ${OUT}"
 echo "=================================================="
-```

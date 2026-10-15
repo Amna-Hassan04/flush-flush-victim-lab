@@ -1,0 +1,4 @@
++ cd /home/ahassan9/flush-flush-victim-lab/cross_machine_results/artemisia_20261015_111212/runs/run_19
++ timeout 30s /home/ahassan9/flush-flush-victim-lab/cross_machine_results/artemisia_20261015_111212/observer
+Observer started. Measuring cache timings...
+Finished. Results saved to victim_timings.csv
