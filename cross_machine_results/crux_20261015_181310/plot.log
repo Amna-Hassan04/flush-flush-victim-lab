@@ -1,0 +1,9 @@
+/home/ahassan9/flush-flush-victim-lab/cross_machine_results/crux_20261015_181310/plot_repeats.py:134: UserWarning: Tight layout not applied. The bottom and top margins cannot be made large enough to accommodate all axes decorations.
+  plt.tight_layout()
+Loaded 20 trials.
+Using threshold: 171 ticks.
+
+Saved figures:
+report_figures/01_timing_distributions.png (111,947 bytes)
+report_figures/02_timing_by_bit.png (176,541 bytes)
+report_figures/03_accuracy_by_trial.png (126,465 bytes)

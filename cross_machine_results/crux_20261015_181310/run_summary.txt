@@ -1,0 +1,7 @@
+Host: crux
+Architecture: x86_64
+Trials requested: 20
+Expected message: amna
+Shared-memory name: /flush_flush_demo
+Results directory: /home/ahassan9/flush-flush-victim-lab/cross_machine_results/crux_20261015_181310
+Finished: Thu Oct 15 06:13:17 PM EDT 2026
