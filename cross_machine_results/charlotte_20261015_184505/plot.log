@@ -1,0 +1,7 @@
+Loaded 20 trials.
+Using threshold: 171 ticks.
+
+Saved figures:
+report_figures/01_timing_distributions.png (106,914 bytes)
+report_figures/02_timing_by_bit.png (185,209 bytes)
+report_figures/03_accuracy_by_trial.png (110,431 bytes)
