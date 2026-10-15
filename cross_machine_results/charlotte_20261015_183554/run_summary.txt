@@ -1,0 +1,7 @@
+Host: charlotte
+Architecture: x86_64
+Trials requested: 20
+Expected message: amna
+Shared-memory name: /flush_flush_demo
+Results directory: /mnt/ncsudrive/a/ahassan9/flush-flush-victim-lab/cross_machine_results/charlotte_20261015_183554
+Finished: Thu Oct 15 06:35:58 PM EDT 2026
