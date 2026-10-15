@@ -1,0 +1,4 @@
+++ cd /home/ahassan9/flush-flush-victim-lab/cross_machine_results/artemisia_20261015_113517/runs/run_13
+++ timeout 30s /home/ahassan9/flush-flush-victim-lab/cross_machine_results/artemisia_20261015_113517/victim
+Victim ready. Waiting for observer...
+Victim finished sending 32 test bits.
