@@ -1,0 +1,9 @@
+/home/ahassan9/flush-flush-victim-lab/cross_machine_results/sunbird_20261015_162202/plot_repeats.py:134: UserWarning: Tight layout not applied. The bottom and top margins cannot be made large enough to accommodate all axes decorations. 
+  plt.tight_layout()
+Loaded 20 trials.
+Using threshold: 171 ticks.
+
+Saved figures:
+report_figures/01_timing_distributions.png (109,897 bytes)
+report_figures/02_timing_by_bit.png (261,091 bytes)
+report_figures/03_accuracy_by_trial.png (102,892 bytes)
