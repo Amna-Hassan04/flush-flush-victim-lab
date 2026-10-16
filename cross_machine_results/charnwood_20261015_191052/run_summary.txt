@@ -1,0 +1,7 @@
+Host: charnwood
+Architecture: x86_64
+Trials requested: 20
+Expected message: amna
+Shared-memory name: /flush_flush_demo
+Results directory: /home/ahassan9/flush-flush-victim-lab/cross_machine_results/charnwood_20261015_191052
+Finished: Thu Oct 15 07:10:56 PM EDT 2026
