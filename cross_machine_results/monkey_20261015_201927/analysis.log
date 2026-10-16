@@ -1,0 +1,32 @@
+Threshold: 171 ticks
+Trials found: 20
+
+trial,measurements,low_median,high_median,decoded_message,bit_accuracy
+run_01,32,130.0,204.0,qmna,96.88%
+run_02,32,134.0,196.0,amna,100.00%
+run_03,32,138.0,208.0,amna,100.00%
+run_04,32,134.0,206.0,amna,100.00%
+run_05,32,134.0,205.0,amna,100.00%
+run_06,32,134.0,204.0,amna,100.00%
+run_07,32,128.0,192.0,amna,100.00%
+run_08,32,130.0,202.0,amna,100.00%
+run_09,32,128.0,205.0,amna,100.00%
+run_10,32,138.0,214.0,amna,100.00%
+run_11,32,130.0,194.0,amna,100.00%
+run_12,32,128.0,190.0,amna,100.00%
+run_13,32,125.0,198.0,amna,100.00%
+run_14,32,138.0,210.0,amna,100.00%
+run_15,32,130.0,204.0,amna,100.00%
+run_16,32,130.0,203.0,amna,100.00%
+run_17,32,126.0,186.0,amna,100.00%
+run_18,32,130.0,206.0,amna,100.00%
+run_19,32,138.0,207.0,amna,100.00%
+run_20,32,126.0,202.0,amna,100.00%
+
+Overall timing summary
+Measurements classified low: 319
+Measurements classified high: 321
+Low-group median: 130.0 ticks
+High-group median: 204.0 ticks
+Overall bit accuracy: 99.84%
+Correct bits: 639/640
